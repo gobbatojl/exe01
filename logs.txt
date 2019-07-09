@@ -1,6 +1,25 @@
 $ git log
-commit bea8ab3b89590d387341c491778825ba5a7ac63a (HEAD -> master)
-Author: Joao Lucas <gobbato.jl@gmail.com>
-Date:   Tue Jul 9 16:21:16 2019 -0300
+commit 829a1fffd7f5f75784ab9ee6e845b0d87b6c45f9 (HEAD -> master, origin/master)
+Author: gobbatojl <52716134+gobbatojl@users.noreply.github.com>
+Date:   Tue Jul 9 16:51:05 2019 -0300
 
-    Primeira edicao
+    Update README.md
+
+commit 20a2d5a0c39e6856b5cde26806889d276272aae1
+Author: gobbatojl <52716134+gobbatojl@users.noreply.github.com>
+Date:   Tue Jul 9 16:50:24 2019 -0300
+
+    Rename REAME.md to README.md
+
+commit 2792e3b1452badebd9e5948b9bc6aead2df8bfa0
+Author: gobbatojl <52716134+gobbatojl@users.noreply.github.com>
+Date:   Tue Jul 9 16:45:51 2019 -0300
+
+    Create REAME.md
+
+commit e1d2baa56bff406a47e9554ae55bbfae4348371e
+Author: Joao Lucas <gobbato.jl@gmail.com>
+Date:   Tue Jul 9 16:33:23 2019 -0300
+
+    Arquivo logs recebe alteracao 1
+:
