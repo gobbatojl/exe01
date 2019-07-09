@@ -1,0 +1,6 @@
+$ git log
+commit bea8ab3b89590d387341c491778825ba5a7ac63a (HEAD -> master)
+Author: Joao Lucas <gobbato.jl@gmail.com>
+Date:   Tue Jul 9 16:21:16 2019 -0300
+
+    Primeira edicao
